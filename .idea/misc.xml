@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 02/Sample-Debug-IntelliJ/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 03/IntelliJ/Customer-Support-v1/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 03/IntelliJ/Hello-User/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 03/IntelliJ/Hello-World/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 04/IntelliJ/Customer-Support-v2/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 04/IntelliJ/Hello-User-JSP/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 04/IntelliJ/Hello-World-JSP/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 05/IntelliJ/Customer-Support-v3/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 05/IntelliJ/Session-Activity/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 05/IntelliJ/Shopping-Cart/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 06/IntelliJ/Customer-Support-v4/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 07/IntelliJ/Address-Book/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 07/IntelliJ/Address-Book-i18n/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 07/IntelliJ/Customer-Support-v5/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 08/IntelliJ/Customer-Support-v6/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 08/IntelliJ/Template-Tags/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 09/IntelliJ/Compression-Filter/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 09/IntelliJ/Customer-Support-v7/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 09/IntelliJ/Filter-Async/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 09/IntelliJ/Filter-Order/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 10/IntelliJ/Customer-Support-v8/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 10/IntelliJ/Game-Site/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 10/IntelliJ/Simulated-Cluster/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 11/IntelliJ/Customer-Support-v9/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 11/IntelliJ/Logging-Integration/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 12/IntelliJ/Spring-Hybrid-Config/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 12/IntelliJ/Spring-Java-Config/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 12/IntelliJ/Spring-One-Context-XML-Config/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 12/IntelliJ/Spring-XML-Config/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 13/IntelliJ/Customer-Support-v10/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 13/IntelliJ/Model-View-Controller/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 13/IntelliJ/Spring-Forms/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 14/IntelliJ/Customer-Support-v11/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 14/IntelliJ/Discussion-Board/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 15/IntelliJ/Customer-Support-v12/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 15/IntelliJ/Localized-Application/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 16/IntelliJ/Custom-Constraints/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 16/IntelliJ/Customer-Support-v13/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 16/IntelliJ/HR-Portal/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 17/IntelliJ/Customer-Support-v14/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 17/IntelliJ/Web-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 18/IntelliJ/AMQP-Messaging/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 18/IntelliJ/Publish-Subscribe/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 18/IntelliJ/WebSocket-Messaging/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 20/IntelliJ/Entity-Mappings/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 20/IntelliJ/Enums-Dates-Lobs/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 21/IntelliJ/Customer-Support-v15/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 21/IntelliJ/Spring-JPA/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 22/IntelliJ/Customer-Support-v16/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 22/IntelliJ/Spring-Data-JPA/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 23/IntelliJ/Advanced-Criteria/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 23/IntelliJ/Customer-Support-v17/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 23/IntelliJ/Search-Engine/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 24/IntelliJ/Advanced-Mappings/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 24/IntelliJ/Customer-Support-v18/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 26/IntelliJ/Authentication-App/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 26/IntelliJ/Customer-Support-v19/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 27/IntelliJ/Customer-Support-v20/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 28/IntelliJ/Customer-Support-v21/pom.xml" />
+        <option value="$PROJECT_DIR$/../projavawebdevelop/9781118656464 Full Code/Chapter 28/IntelliJ/OAuth-Client/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

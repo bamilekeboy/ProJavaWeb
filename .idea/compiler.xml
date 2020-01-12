@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="address-book" />
+        <module name="address-book-i18n" />
+        <module name="advanced-criteria" />
+        <module name="advanced-mappings" />
+        <module name="amqp-messaging" />
+        <module name="authentication-app" />
+        <module name="compression-filter" />
+        <module name="costumer-support-v.customer-support" />
+        <module name="costumer-support-v.customer-support (1)" />
+        <module name="costumer-support-v.customer-support (10)" />
+        <module name="costumer-support-v.customer-support (11)" />
+        <module name="costumer-support-v.customer-support (12)" />
+        <module name="costumer-support-v.customer-support (13)" />
+        <module name="costumer-support-v.customer-support (14)" />
+        <module name="costumer-support-v.customer-support (15)" />
+        <module name="costumer-support-v.customer-support (16)" />
+        <module name="costumer-support-v.customer-support (17)" />
+        <module name="costumer-support-v.customer-support (18)" />
+        <module name="costumer-support-v.customer-support (19)" />
+        <module name="costumer-support-v.customer-support (2)" />
+        <module name="costumer-support-v.customer-support (20)" />
+        <module name="costumer-support-v.customer-support (3)" />
+        <module name="costumer-support-v.customer-support (4)" />
+        <module name="costumer-support-v.customer-support (5)" />
+        <module name="costumer-support-v.customer-support (6)" />
+        <module name="costumer-support-v.customer-support (7)" />
+        <module name="costumer-support-v.customer-support (8)" />
+        <module name="costumer-support-v.customer-support (9)" />
+        <module name="custom-constraints" />
+        <module name="discussion-board" />
+        <module name="entity-mappings" />
+        <module name="enums-dates-lobs" />
+        <module name="filter-async" />
+        <module name="filter-order" />
+        <module name="game-site" />
+        <module name="hello-user" />
+        <module name="hello-user-jsp" />
+        <module name="hello-world" />
+        <module name="hello-world-jsp" />
+        <module name="hr-portal" />
+        <module name="localized-application" />
+        <module name="logging-integration" />
+        <module name="model-view-controller" />
+        <module name="oauth-client" />
+        <module name="projavaweb" />
+        <module name="publish-subscribe" />
+        <module name="sample-debug-intellij" />
+        <module name="search-engine" />
+        <module name="session-activity" />
+        <module name="shopping-cart" />
+        <module name="simulated-cluster" />
+        <module name="spring-data-jpa" />
+        <module name="spring-forms" />
+        <module name="spring-hybrid-config" />
+        <module name="spring-java-config" />
+        <module name="spring-jpa" />
+        <module name="spring-one-context-xml-config" />
+        <module name="spring-xml-config" />
+        <module name="template-tags" />
+        <module name="web-service" />
+        <module name="websocket-messaging" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
